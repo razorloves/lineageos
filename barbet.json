@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1730434873,
-      "filename": "lineage-22.0-20241101-UNOFFICIAL-barbet.zip",
-      "id": "ba5b896bbdc254d249423bdadcf339f62ef61bedd514162f8e7d912fc2dee468",
+      "datetime": 1730595148,
+      "filename": "lineage-22.0-20241103-UNOFFICIAL-barbet.zip",
+      "id": "ba5b896bbdc254d249423bdadcf339f62ef61bedd514162f8e7d912fc2dee469",
       "romtype": "UNOFFICIAL",
       "size": 1195913709,
-      "url": "https://github.com/razorloves/lineageos/releases/download/lineage-22.0-20241101-UNOFFICIAL-barbet/lineage-22.0-20241101-UNOFFICIAL-barbet.zip",
+      "url": "https://github.com/razorloves/lineageos/releases/download/lineage-22.0-20241103-UNOFFICIAL-barbet/lineage-22.0-20241103-UNOFFICIAL-barbet.zip",
       "version": "22.0"
     }
   ]
